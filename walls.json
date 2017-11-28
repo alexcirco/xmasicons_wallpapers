@@ -1,0 +1,25 @@
+{
+	"wallpapers": [
+		{
+			"name": "Blurr Lights",
+			"author": "Alex Circo",
+			"url": "christmas-icon-packBlurr Lights.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "2017 Circo. Some rights reserved."
+		},
+		{
+			"name": "Red Winter",
+			"author": "Alex Circo",
+			"url": "christmas-icon-packRed Winter.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "2017 Circo. Some rights reserved."
+		},
+		{
+			"name": "Snow",
+			"author": "Alex Circo",
+			"url": "christmas-icon-packSnow.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "2017 Circo. Some rights reserved."
+		}
+	]
+}
